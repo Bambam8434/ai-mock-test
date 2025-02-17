@@ -1,11 +1,10 @@
-﻿annotated-types==0.7.0
+annotated-types==0.7.0
 blinker==1.9.0
 cachetools==5.5.1
 certifi==2025.1.31
 charset-normalizer==3.4.1
 click==8.1.8
 colorama==0.4.6
-comtypes==1.4.9
 Flask==3.1.0
 Flask-Cors==5.0.0
 fpdf==1.7.2
@@ -30,7 +29,6 @@ pyasn1_modules==0.4.1
 pydantic==2.10.6
 pydantic_core==2.27.2
 pyparsing==3.2.1
-pypiwin32==223
 pyttsx3==2.98
 requests==2.32.3
 rsa==4.9
